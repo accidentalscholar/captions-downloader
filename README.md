@@ -4,7 +4,7 @@ This script downloads captions, subtitles or transcripts from *YouTube* videos, 
 
 ## The Problem
 
-From time to time, it is valuable to have access to the captions or transcripts of a video or a set of videos. *YouTube* and other platforms don't make it easy to download these. Further, *YouTube* uses a 'rolling' model, meaning even the downloaded *vtt* files would have lots of repetitions.
+From time to time, it is valuable to have access to the captions or transcripts of a video or a set of videos. *YouTube* and other platforms don't make it easy to download these. Further, *YouTube* uses a 'rolling' model, meaning even the downloaded *VTT* files would have lots of repetitions.
 
 ## Usage
 
@@ -20,7 +20,7 @@ The script can also identify URLs for *Spotify* or *iTunes* shows and attempt to
 
 ### Output
 
-The script will save the output as the original downloaded *VTT* or *SRT* file(s) and converted *TXT* file(s) in the output folder you selected. When converting to *TXT*, the script strips out any duplications caused by *YouTube*'s' 'rolling' model and any timestamps, yielding uninterrupted running text.
+The script will save the output as the original downloaded *VTT* or *SRT* file(s) and converted *TXT* file(s) in the output folder you selected. When converting to *TXT*, the script strips out any duplications caused by *YouTube*'s 'rolling' model and any timestamps, yielding uninterrupted running text.
 
 Filenames are indexed in the same order as the source.
 
